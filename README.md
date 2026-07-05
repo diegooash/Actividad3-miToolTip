@@ -4,7 +4,7 @@
 **Estudiante:** Diego Alonso Sánchez Hernández  
 **Profesora:** Adelina Martínez Nieto  
 
-**Guthub Pages:** https://diegooash.github.io/Actividad3-miToolTip/
+**Github Pages:** https://diegooash.github.io/Actividad3-miToolTip/
 
 **Video demostracion:** https://drive.google.com/file/d/1MNUjBksk8YRLP9VVRFOGl44WO3szonLw/view?usp=sharing
 
