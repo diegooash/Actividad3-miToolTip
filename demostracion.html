@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Funcionamiento de miToolTip</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/componente.css">
+</head>
+<body>
+    <div class="contenedor">
+        <h1>Demostracion</h1>
+        <p>Pasa el mouse sobre los diferentes componentes</p>
+        
+        <div class="caja-input">
+            <p>Botones:</p>
+            <button id="btn1" class="btn">Boton</button>
+            <button id="btn2" class="btn btn-secundario">Boton</button>
+        </div>
+        
+        <div class="caja-input">
+            <p>Campo de texto:</p>
+            <input type="text" id="campoTexto" placeholder="Diego Alonso Sanchez Hernandez" readonly>
+        </div>
+
+        <div class="caja-input">
+            <p>Textos de ayuda. <span id="textoAyuda" style="color: #d9534f; font-weight: bold; cursor: help; text-decoration: underline;">Mas informacion.</span></p>
+        </div>
+
+        <a href="index.html" class="enlace-volver">Index</a>
+    </div>
+
+    <script src="js/componente.js"></script>
+    <script src="js/demostracion.js"></script>
+</body>
+</html>
